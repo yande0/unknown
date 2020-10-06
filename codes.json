@@ -1,0 +1,12 @@
+{
+  "84.0.4147": [
+    "http://mirrors.163.com/ubuntu/pool/universe/c/chromium-browser/chromium-browser-l10n_85.0.4183.121-0ubuntu0.16.04.1_all.deb",
+    "http://de.archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_85.0.4183.83-0ubuntu0.16.04.2_amd64.deb",
+    "http://mirrors.kernel.org/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_85.0.4183.83-0ubuntu0.16.04.2_amd64.deb",
+    "http://kr.archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_85.0.4183.83-0ubuntu0.16.04.2_amd64.deb",
+    "http://za.archive.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_85.0.4183.83-0ubuntu0.16.04.2_amd64.deb"
+  ],
+  "85.0.4183": [
+    "http://mirrors.163.com/ubuntu/pool/universe/c/chromium-browser/chromium-browser-l10n_85.0.4183.121-0ubuntu0.16.04.1_all.deb"
+  ]
+}
